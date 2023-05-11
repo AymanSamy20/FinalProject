@@ -27,8 +27,7 @@
         </activity>
         <activity
             android:name=".SlideActivity"
-            android:exported="false">
-        </activity>
+            android:exported="false"></activity>
     </application>
 
 </manifest>

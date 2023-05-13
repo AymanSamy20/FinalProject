@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_x="-2325dp"
+    android:layout_y="-8064dp"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/logo"
+        android:layout_width="match_parent"
+        android:layout_height="274.5dp"
+        android:layout_marginTop="140dp"
+        app:srcCompat="@drawable/onboarding" />
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginStart="9dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginTop="65.5dp"
+        android:textSize="21dp"
+        android:paddingStart="25dp"
+        android:textStyle="bold"
+        android:textColor="#0E9CF9"
+        android:text="Fast reservation with technicians \n                  and craftsmen" />
+
+    <Button
+        android:id="@+id/next"
+        android:layout_width="305dp"
+        android:layout_height="55dp"
+       android:layout_gravity="center"
+        android:layout_marginTop="125dp"
+        android:background="@drawable/background_button"
+        android:text="Next"
+        android:textColor="#FFFFFF"
+        android:textSize="18dp"
+        android:textStyle="bold" />
+</LinearLayout>

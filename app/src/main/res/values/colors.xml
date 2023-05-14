@@ -22,4 +22,11 @@
     <color name="bink_shape">#DE1487</color>
     <color name="brown">#AF8344</color>
     <color name="light_black">#222328</color>
+    <color name="selectedIconColor">#04E1F8</color>
+    <color name="defaultIconColor">#F6F6F6</color>
+    <color name="countTextColor">#fff</color>
+    <color name="countBackgroundColor">#F45E0B</color>
+    <color name="circleColor">#fff</color>
+    <color name="BackgroundBottomColor">#04E1F8</color>
+    <color name="shadownColor">#2E2E2E</color>
 </resources>

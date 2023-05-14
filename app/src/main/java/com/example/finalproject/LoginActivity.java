@@ -39,6 +39,7 @@ public class LoginActivity extends AppCompatActivity implements ToggleLoginListe
         arrayList.add(new LoginFragment(true));
 
 
+
         MyViewpagerAdapter viewpagerAdapter = new MyViewpagerAdapter(fragmentManager, getLifecycle(), arrayList);
         binding.ViewPager2.setAdapter(viewpagerAdapter);
 
